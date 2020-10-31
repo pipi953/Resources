@@ -12,7 +12,6 @@ grammar_cjkRuby: true
 ![Structure](./attachments/1603957703536.drawio.html)
 
 
-![绘图](./attachments/1604023619856.drawio.html)
 
 # Scenes
 
